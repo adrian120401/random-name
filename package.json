@@ -1,6 +1,6 @@
 {
   "name": "randoms_names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is a package for aleatory names in console",
   "main": "src/index.js",
   "scripts": {
