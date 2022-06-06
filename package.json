@@ -13,8 +13,15 @@
   "author": "Adrian de los Reyes <adriandelosreyes2013@gmail.com>",
   "license": "MIT",
   "bin": {
-    "randoms_names": "./bin/global.js"
+    "randoms_names": "bin/global.js"
   },
-  "preferGlobal": true
-
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian120401/random-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adrian120401/random-name/issues"
+  },
+  "homepage": "https://github.com/adrian120401/random-name#readme"
 }
