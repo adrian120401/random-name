@@ -1,0 +1,20 @@
+{
+  "name": "randoms_names",
+  "version": "1.0.0",
+  "description": "Is a package for aleatory names in console",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm"
+  ],
+  "author": "Adrian de los Reyes <adriandelosreyes2013@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "randoms_names": "./bin/global.js"
+  },
+  "preferGlobal": true
+
+}
